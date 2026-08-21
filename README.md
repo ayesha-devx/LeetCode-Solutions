@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayesha-devx/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayesha-devx/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ayesha-devx/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayesha-devx/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ayesha-devx/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ayesha-devx/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
